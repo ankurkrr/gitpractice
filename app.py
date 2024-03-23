@@ -6,3 +6,6 @@ def substract(a,b,f):
 
 def divide(a,b):
     a/b
+
+def multiply(a,b):
+    a*b
